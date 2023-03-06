@@ -135,5 +135,7 @@ h2{
 
     .image_tilt{
         transform: rotate(0deg);
+        padding-top: 30px;
+        margin-left:0;
     }
 }
