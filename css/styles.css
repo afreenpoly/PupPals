@@ -27,8 +27,6 @@ h2{
     padding-bottom: 5px;
 }
 
-
-
 .navbar{
     padding:0 0 4.5rem;
 }
@@ -125,6 +123,31 @@ h2{
 #pricing{
     text-align: center;
     padding: 100px;
+}
+
+#cta{
+    background-color: #ff4c68;
+    padding:3% 20%;
+    text-align: center;
+}
+
+#footer{
+    font-weight: 50;
+    margin-top: 5%;
+    padding:0 15% ;
+    text-align: center;
+}
+
+#last{
+    color: white;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 3rem;
+    line-height: 1.5;
+}
+
+.button-space {
+    margin-top: 5%;
+    margin-right: 2%;
 }
 
 @media (max-width:1028px) {
