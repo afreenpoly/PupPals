@@ -1,3 +1,3 @@
-<ul> TinDog </ul>
+# Tindog
 
 Tinder Website for Dogs😂
