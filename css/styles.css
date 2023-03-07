@@ -3,16 +3,17 @@
     color: white;
 }
 
-h1{
+h1,h2{
     font-family: 'Montserrat', sans-serif;
-    font-size: 3rem;
     line-height: 1.5;
 }
 
+h1.bigheading{
+    font-size: 3rem;
+}
+
 h2{
-    font-family: 'Montserrat', sans-serif;
     font-size: 2rem;
-    line-height: 1.5;
 }
 
 
