@@ -1,3 +1,7 @@
+body{
+    text-align: center;
+}
+
 #title{
     background-color: #ff4c68;
     color: white;
@@ -65,7 +69,6 @@ h2{
 
 #features{
     margin:8%;
-    text-align: center;
     padding: 0 20px;
 }
 
@@ -83,7 +86,6 @@ h2{
 
 #testimonials{
     background-color: #36b178;
-    text-align: center;
     padding:7% 0;
 }
 
@@ -108,7 +110,6 @@ h2{
 
 #press{
     background-color:#74d1a6;
-    text-align: center;
     padding: 3%;
 }
 
@@ -122,21 +123,18 @@ h2{
 }
 
 #pricing{
-    text-align: center;
     padding: 100px;
 }
 
 #cta{
     background-color: #ff4c68;
     padding:3% 20%;
-    text-align: center;
 }
 
 #footer{
     font-weight: 50;
     margin-top: 5%;
     padding:0 15% ;
-    text-align: center;
 }
 
 #last{
